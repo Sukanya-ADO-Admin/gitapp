@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/practice28/Agile-test-project/_apis/build/status%2FSukanya-ADO-Admin.gitapp?branchName=master)](https://dev.azure.com/practice28/Agile-test-project/_build/latest?definitionId=9&branchName=master)
